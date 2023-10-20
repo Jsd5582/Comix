@@ -1,0 +1,13 @@
+# Intellij
+.idea/
+*.iml
+
+# VSCode
+.vscode/
+
+# Maven
+/target/
+
+# Database
+**/db.yml
+
